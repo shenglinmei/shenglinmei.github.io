@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Song Lab @ Dartmouth
+title: Mei Lab @ VT
 
 # Short description of your site
-description: Li Song Lab at Dartmouth
+description: Shenglin Mei Lab at VT
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,9 +21,9 @@ description: Li Song Lab at Dartmouth
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Software: "software"
+#  Software: "software"
   News & Events: "news"
-  People: "people"
+#  People: "people"
   Publications: "publication"
   #Teaching: "teaching"
   Open Positions: "open_positions"
