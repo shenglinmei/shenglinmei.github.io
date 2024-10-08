@@ -1,15 +1,17 @@
 ---
 layout: default
 title: Publications
-subtitle: Publications in Song Lab
+subtitle: Publications in Mei Lab
 permalink: /publication
 ---
 
 # Publications
 
-You can visit [Google Scholar](https://scholar.google.com/citations?user=X0n7vEEAAAAJ&hl=en) for more details<br>
+You can visit [Google Scholar](https://scholar.google.com/citations?user=MntNsM8AAAAJ&hl=en) for more details<br>
 \# Co-First authors;
 ## Journal Publications
+-Olsen, Thale K; Otte, Jörg; Mei, **Shenglin***; Embaie, Bethel Tesfai; Kameneva, Polina; Cheng, Huaitao; Gao, Teng; Zachariadis, Vasilios; Tsea, Ioanna; Björklund, ..., Ninib Baryawno, Molecular Cancer. 2024. doi:10.1186/s12943-024-02091-y(https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-024-02091-y).
+
 - **Song L\***, Langmead B, *Centrifuger: lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification*, Genome Biology 25 (1), 1-21. \[[Full text](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03244-4)\] (<span style="color:blue">**Best Paper Award at RECOMB2024**</span>) (\*:corresponding author)
 - Zhou Y, **Song L** and Li H, *Full resolution HLA and KIR genes annotation for human genome assemblies*, Genome Res. 2024 Jun 5:gr.278985.124. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/38839374/)\]
 - **Song L**, Bai G, Liu XS, Li B and Li H, *Efficient and accurate KIR and HLA genotyping with massive parallel sequencing data*. Genome Res. 2023 Jun;33(6):923-931. \[[PubMed](https://pubmed.ncbi.nlm.nih.gov/37169596/)\]
