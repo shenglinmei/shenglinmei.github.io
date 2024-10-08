@@ -32,10 +32,14 @@ This position will provide ample opportunities for professional development and 
 
 #### Requirements:
 • Master’s degree in Data Science, Bioinformatics, Computational Biology, Machine Learning, Statistics, Mathematics, Physics, Computer science or other related fields.
+
 • One or more years of research training.
+
 • Some coding knowledge of either R or python.
+
 • The ability to work in teams, excellent communication and data presentation skills 
 
-Required application materials: Cover Letter, CV/Resume, and a list of at least two references.
+Interested applicants should submit the following materials via email to Dr. Shenglin Mei (shenglinmei@vtc.vt.edu): 1) a cover letter,  2) a current CV (including publications), and 3) contact information for two references.
+
 Expected start date is Jan 2025.
 
