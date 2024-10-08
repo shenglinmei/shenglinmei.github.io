@@ -5,7 +5,6 @@
 - [Files](#files)
 - [Home](#Home)
 - [Software](#software)
-- [News & Events](#news_and_events)
 - [People](#people)
 - [Publications](#publications)
 - [Open Positions](#career)
