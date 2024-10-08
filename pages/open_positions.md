@@ -8,11 +8,11 @@ permalink: /open_positions
 The Mei Laboratory studies the remodeling and regulatory mechanisms of the tumor microenvironment during tumor progression and the metastasis cascade. The lab combines single-cell technologies, genomic datasets, machine learning, and experimental methods to investigate how the tumor microenvironment and gene regulatory factors control tumor metastasis cascade.  By advancing our understanding of malignant cell heterogeneity and tumor microenvironment remodeling, we aim to drive the development of novel therapeutic approaches for patients with metastatic cancer. The current focuses in lab include the following directions: 1) Developing computational methods for integrating multi-modal data, including scRNA-seq, scATAC-seq, spatial transcriptomics, ChIP-seq, and CRISPR screening, et al. 2) Uncovering novel regulators of the tumor microenvironment. 3) Understanding tumor organ specific metastasis with multi-omics data integration.
 
 
-### Computational biology postdoc position at the Mei Lab
+### Computational biology postdoc position
 
 We are seeking highly motivated postdoctoral fellow to join our team. The successful candidates will collaborate with researchers across multiple institutions. Our lab is primarily affiliated with the Fralin Biomedical Research Institute (FBRI) Cancer Research Center DC of Virginia Tech and jointly we are members of the Children's National Center for Cancer and Immunology Research. The positions offer annual salary of $65,000~$70,000 and are adjustable based on research experience.
 
-### Requirements:
+#### Requirements:
 •	PhD and/or MD in computational biology, bioinformatics, genomics, or other related fields. 
 
 •	Experience in high-throughput sequencing data analysis, experience in supervised and unsupervised machine learning, or deep learning models.
@@ -26,6 +26,16 @@ We are seeking highly motivated postdoctoral fellow to join our team. The succes
 Interested applicants should submit the following materials via email to Dr. Shenglin Mei (shenglinmei@vtc.vt.edu): 1) a cover letter describing current research activities and your interest in this position, 2) a current CV (including publications), and 3) contact information for three references. 
 
 
+### Bioinformatics Research Assistant position
 
+This position will provide ample opportunities for professional development and the acquisition of cutting-edge skills in basic and translational cancer genomics research, research planning and strategy, and data analysis and interpretation. The successful candidates will collaborate with researchers across multiple institutions.
 
+#### Requirements:
+• Master’s degree in Data Science, Bioinformatics, Computational Biology, Machine Learning, Statistics, Mathematics, Physics, Computer science or other related fields.
+• One or more years of research training.
+• Some coding knowledge of either R or python.
+• The ability to work in teams, excellent communication and data presentation skills 
+
+Required application materials: Cover Letter, CV/Resume, and a list of at least two references.
+Expected start date is Jan 2025.
 
