@@ -12,10 +12,14 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=MntNsM8
 
 ### 2024
 
-- Olsen TK#, Otte J#, **Mei S#**, Embaie BT, Kameneva P, Cheng H, et al. Joint single-cell genetic and transcriptomic analysis reveal pre-malignant SCP-like subclones in human neuroblastoma. **_Mol Cancer_**. 2024. [doi:10.1186/s12943-024-02091-y](https://doi.org/10.1186/s12943-024-02091-y)
-- **Mei S#**, Alchahin AM#, Embaie BT, Gavriliuc IM, Verhoeven BM, Zhao T, et al. Single-cell analyses of metastatic bone marrow in human neuroblastoma reveals microenvironmental remodeling and metastatic signature. **_JCI Insight_**. 2024. [doi:10.1172/jci.insight.173337](https://doi.org/10.1172/jci.insight.173337)
-- **Mei S#**, Alchahin AM#, Tsea I, Kfoury Y, Hirz T, Jeffries NE, et al. Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions. **_Genome Med_**. 2024. [doi:10.1186/s13073-023-01272-6](https://doi.org/10.1186/s13073-023-01272-6)
-- Wienke J, Visser LL, Kholosy WM, Keller KM, Barisa M, Poon E,...,**Mei S**, et al. Integrative analysis of neuroblastoma by single-cell RNA sequencing identifies the NECTIN2-TIGIT axis as a target for immunotherapy. **_Cancer Cell_**. 2024. [doi:10.1016/j.ccell.2023.12.008](https://doi.org/10.1016/j.ccell.2023.12.008)
+- Olsen TK#, Otte J#, **Mei S#**, Embaie BT, Kameneva P, Cheng H, et al. Joint single-cell genetic and transcriptomic analysis reveal pre-malignant SCP-like subclones in human neuroblastoma. **_Mol Cancer_**. 2024.
+  [doi:10.1186/s12943-024-02091-y](https://doi.org/10.1186/s12943-024-02091-y)
+- **Mei S#**, Alchahin AM#, Embaie BT, Gavriliuc IM, Verhoeven BM, Zhao T, et al. Single-cell analyses of metastatic bone marrow in human neuroblastoma reveals microenvironmental remodeling and metastatic signature. **_JCI Insight_**. 2024.
+  [doi:10.1172/jci.insight.173337](https://doi.org/10.1172/jci.insight.173337)
+- **Mei S#**, Alchahin AM#, Tsea I, Kfoury Y, Hirz T, Jeffries NE, et al. Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions. **_Genome Med_**. 2024.
+  [doi:10.1186/s13073-023-01272-6](https://doi.org/10.1186/s13073-023-01272-6)
+- Wienke J, Visser LL, Kholosy WM, Keller KM, Barisa M, Poon E,...,**Mei S**, et al. Integrative analysis of neuroblastoma by single-cell RNA sequencing identifies the NECTIN2-TIGIT axis as a target for immunotherapy. **_Cancer Cell_**. 2024.
+  [doi:10.1016/j.ccell.2023.12.008](https://doi.org/10.1016/j.ccell.2023.12.008)
 
 ### 2023
   
