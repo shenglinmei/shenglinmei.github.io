@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-subtitle: Research in Song Lab
+subtitle: Research
 permalink: /research/
 ---
 # Research
