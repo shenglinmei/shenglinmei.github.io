@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Software
-subtitle: Softwares in Song Lab
+title: Research
+subtitle: Research in Song Lab
 permalink: /Research/
 ---
-# Software
+# Research
 
 ### Repositories
 - [**GitHub**](https://github.com/mourisl) &nbsp;
