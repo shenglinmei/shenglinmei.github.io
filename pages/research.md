@@ -10,7 +10,7 @@ The Mei Laboratory studies the remodeling and regulatory mechanisms of the tumor
 
 - Developing computational methods for integrating multi-modal data, including scRNA-seq, scATAC-seq, spatial transcriptomics, ChIP-seq, and CRISPR screening, et al.
 
-- Context depedent tumor mocroenviroment remodeling. 
+- Context dependent tumor microenvironment remodeling.
      
 - Uncovering novel regulators of the tumor microenvironment.
      
