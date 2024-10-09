@@ -23,9 +23,12 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=MntNsM8
 
 ### 2023
   
-- Hirz T#, **Mei S#\***, Sarkar H, Kfoury Y, Wu S, Verhoeven BM, et al. Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses. **_Nat Commun_**. 2023. doi:10.1038/s41467-023-36325-2(https://doi.org/10.1038/s41467-023-36325-2)
-- Bai Y, Min R, Chen P, **Mei S**, Deng F, Zheng Z, et al. Disulfiram blocks inflammatory TLR4 signaling by targeting MD-2. **_PNAS_**. 2023. [doi:10.1073/pnas.2306399120](https://doi.org/10.1073/pnas.2306399120)
-- Chaudagar K, Hieromnimon HM, Khurana R, Labadie B, Hirz T, **Mei S**, et al. Reversal of Lactate and PD-1–mediated Macrophage Immunosuppression Controls Growth of PTEN/p53-deficient Prostate Cancer. **_Clin Cancer Res_**. 2023. [doi:10.1158/1078-0432.CCR-22-3350](https://doi.org/10.1158/1078-0432.CCR-22-3350)
+- Hirz T#, **Mei S#\***, Sarkar H, Kfoury Y, Wu S, Verhoeven BM, et al. Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses. **_Nat Commun_**. 2023.
+  [doi:10.1038/s41467-023-36325-2](https://doi.org/10.1038/s41467-023-36325-2)
+- Bai Y, Min R, Chen P, **Mei S**, Deng F, Zheng Z, et al. Disulfiram blocks inflammatory TLR4 signaling by targeting MD-2. **_PNAS_**. 2023.
+  [doi:10.1073/pnas.2306399120](https://doi.org/10.1073/pnas.2306399120)
+- Chaudagar K, Hieromnimon HM, Khurana R, Labadie B, Hirz T, **Mei S**, et al. Reversal of Lactate and PD-1–mediated Macrophage Immunosuppression Controls Growth of PTEN/p53-deficient Prostate Cancer. **_Clin Cancer Res_**. 2023.
+  [doi:10.1158/1078-0432.CCR-22-3350](https://doi.org/10.1158/1078-0432.CCR-22-3350)
 
 ### 2022
 
