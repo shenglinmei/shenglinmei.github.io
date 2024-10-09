@@ -2,7 +2,7 @@
 layout: default
 title: Software
 subtitle: Softwares in Song Lab
-permalink: /software/
+permalink: /Research/
 ---
 # Software
 
