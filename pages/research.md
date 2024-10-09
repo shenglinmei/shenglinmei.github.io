@@ -2,7 +2,7 @@
 layout: default
 title: Research
 subtitle: Research in Song Lab
-permalink: /Research/
+permalink: /research/
 ---
 # Research
 
