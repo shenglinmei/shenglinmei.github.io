@@ -9,30 +9,29 @@ permalink: /publication
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=MntNsM8AAAAJ&hl=en) for more details<br>
 \# Co-First authors * Co-corresponding;
-## Journal Publications
 
 ### 2024
 
-- Olsen TK#, Otte J#, **Mei S#**, Embaie BT, Kameneva P, Cheng H, et al. Joint single-cell genetic and transcriptomic analysis reveal pre-malignant SCP-like subclones in human neuroblastoma. **Mol Cancer**. 2024;23: 180. doi:10.1186/s12943-024-02091-y
-- **Mei S#**, Alchahin AM#, Embaie BT, Gavriliuc IM, Verhoeven BM, Zhao T, et al. Single-cell analyses of metastatic bone marrow in human neuroblastoma reveals microenvironmental remodeling and metastatic signature. **JCI Insight**. 2024. doi:10.1172/jci.insight.173337
-- **Mei S#**, Alchahin AM#, Tsea I, Kfoury Y, Hirz T, Jeffries NE, et al. Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions. **Genome Med**. 2024;16: 1. doi:10.1186/s13073-023-01272-6
-- Wienke J, Visser LL, Kholosy WM, Keller KM, Barisa M, Poon E,...,**Mei S**, et al. Integrative analysis of neuroblastoma by single-cell RNA sequencing identifies the NECTIN2-TIGIT axis as a target for immunotherapy. **Cancer Cell**. 2024;42: 283-300.e8. doi:10.1016/j.ccell.2023.12.008
+- Olsen TK#, Otte J#, **Mei S#**, Embaie BT, Kameneva P, Cheng H, et al. Joint single-cell genetic and transcriptomic analysis reveal pre-malignant SCP-like subclones in human neuroblastoma. **_Mol Cancer_**. 2024. [doi:10.1186/s12943-024-02091-y](https://doi.org/10.1186/s12943-024-02091-y)
+- **Mei S#**, Alchahin AM#, Embaie BT, Gavriliuc IM, Verhoeven BM, Zhao T, et al. Single-cell analyses of metastatic bone marrow in human neuroblastoma reveals microenvironmental remodeling and metastatic signature. **_JCI Insight_**. 2024. [doi:10.1172/jci.insight.173337](https://doi.org/10.1172/jci.insight.173337)
+- **Mei S#**, Alchahin AM#, Tsea I, Kfoury Y, Hirz T, Jeffries NE, et al. Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions. **_Genome Med_**. 2024. [doi:10.1186/s13073-023-01272-6](https://doi.org/10.1186/s13073-023-01272-6)
+- Wienke J, Visser LL, Kholosy WM, Keller KM, Barisa M, Poon E,...,**Mei S**, et al. Integrative analysis of neuroblastoma by single-cell RNA sequencing identifies the NECTIN2-TIGIT axis as a target for immunotherapy. **_Cancer Cell_**. 2024. [doi:10.1016/j.ccell.2023.12.008](https://doi.org/10.1016/j.ccell.2023.12.008)
 
 ### 2023
   
-- Hirz T#, **Mei S#\***, Sarkar H, Kfoury Y, Wu S, Verhoeven BM, et al. Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses. **Nat Commun**. 2023;14: 663. doi:10.1038/s41467-023-36325-2
-- Bai Y, Min R, Chen P, **Mei S**, Deng F, Zheng Z, et al. Disulfiram blocks inflammatory TLR4 signaling by targeting MD-2. **PNAS**. 2023;120: e2306399120. doi:10.1073/pnas.2306399120
-- Chaudagar K, Hieromnimon HM, Khurana R, Labadie B, Hirz T, **Mei S**, et al. Reversal of Lactate and PD-1–mediated Macrophage Immunosuppression Controls Growth of PTEN/p53-deficient Prostate Cancer. **Clin Cancer Res**. 2023;29: 1952–1968. doi:10.1158/1078-0432.CCR-22-3350
+- Hirz T#, **Mei S#\***, Sarkar H, Kfoury Y, Wu S, Verhoeven BM, et al. Dissecting the immune suppressive human prostate tumor microenvironment via integrated single-cell and spatial transcriptomic analyses. **_Nat Commun_**. 2023. doi:10.1038/s41467-023-36325-2(https://doi.org/10.1038/s41467-023-36325-2)
+- Bai Y, Min R, Chen P, **Mei S**, Deng F, Zheng Z, et al. Disulfiram blocks inflammatory TLR4 signaling by targeting MD-2. **_PNAS_**. 2023. [doi:10.1073/pnas.2306399120](https://doi.org/10.1073/pnas.2306399120)
+- Chaudagar K, Hieromnimon HM, Khurana R, Labadie B, Hirz T, **Mei S**, et al. Reversal of Lactate and PD-1–mediated Macrophage Immunosuppression Controls Growth of PTEN/p53-deficient Prostate Cancer. **_Clin Cancer Res_**. 2023. [doi:10.1158/1078-0432.CCR-22-3350](https://doi.org/10.1158/1078-0432.CCR-22-3350)
 
 ### 2022
 
-- Haase C#, Gustafsson K#, **Mei S#**, Yeh S-C, Richter D, Milosevic J, et al. Image-seq: spatially resolved single-cell sequencing guided by in situ and in vivo imaging. **Nat Methods**. 2022;19: 1622–1633. doi:10.1038/s41592-022-01673-2
-- Alchahin AM#, **Mei S#\***, Tsea I, Hirz T, Kfoury Y, Dahl D, et al. A transcriptional metastatic signature predicts survival in clear cell renal cell carcinoma. **Nat Commun**. 2022;13: 5747. doi:10.1038/s41467-022-33375-w
-- Verhoeven BM#, **Mei S#**, Olsen TK, Gustafsson K, Valind A, Lindström A, et al. The immune cell atlas of human neuroblastoma. Cell Rep Med. 2022;3: 100657. doi:10.1016/j.xcrm.2022.100657
-- Buonomo EL#, **Mei S#**, Guinn SR, Leo IR, Peluso MJ, Nolan M-A, et al. Liver stromal cells restrict macrophage maturation and stromal IL-6 limits the differentiation of cirrhosis-linked macrophages. **J Hepatol**. 2022;76: 1127–1137. doi:10.1016/j.jhep.2021.12.036
-- Xu Y#, Wei Z#, Feng M#, Zhu D#, **Mei S#**, Wu Z, et al. Tumor-infiltrated activated B cells suppress liver metastasis of colorectal cancers. **Cell Rep**. 2022;40: 111295. doi:10.1016/j.celrep.2022.111295
-- Deng W, Bai Y, Deng F, Pan Y, **Mei S**, Zheng Z, et al. Streptococcal pyrogenic exotoxin B cleaves GSDMA and triggers pyroptosis. **Nature**. 2022;602: 496–502. doi:10.1038/s41586-021-04384-4
-- Batiuk MY, Tyler T, Dragicevic K, **Mei S**, Rydbirk R. Upper cortical layer–driven network impairment in schizophrenia. **Science Advances**. 2022. 
+- Haase C#, Gustafsson K#, **Mei S#**, Yeh S-C, Richter D, Milosevic J, et al. Image-seq: spatially resolved single-cell sequencing guided by in situ and in vivo imaging. **_Nat Methods_**. 2022. [doi:10.1038/s41592-022-01673-2](https://doi.org/10.1038/s41592-022-01673-2)
+- Alchahin AM#, **Mei S#\***, Tsea I, Hirz T, Kfoury Y, Dahl D, et al. A transcriptional metastatic signature predicts survival in clear cell renal cell carcinoma. **_Nat Commun_**. 2022. [doi:10.1038/s41467-022-33375-w](https://doi.org/10.1038/s41467-022-33375-w)
+- Verhoeven BM#, **Mei S#**, Olsen TK, Gustafsson K, Valind A, Lindström A, et al. The immune cell atlas of human neuroblastoma. **_Cell Rep Med_**. 2022;3: 100657. [doi:10.1016/j.xcrm.2022.100657](https://doi.org/10.1016/j.xcrm.2022.100657)
+- Buonomo EL#, **Mei S#**, Guinn SR, Leo IR, Peluso MJ, Nolan M-A, et al. Liver stromal cells restrict macrophage maturation and stromal IL-6 limits the differentiation of cirrhosis-linked macrophages. **J Hepatol**. 2022. [doi:10.1016/j.jhep.2021.12.036](https://doi.org/10.1016/j.jhep.2021.12.036)
+- Xu Y#, Wei Z#, Feng M#, Zhu D#, **Mei S#**, Wu Z, et al. Tumor-infiltrated activated B cells suppress liver metastasis of colorectal cancers. **_Cell Rep_**. 2022. [doi:10.1016/j.celrep.2022.111295](https://doi.org/10.1016/j.celrep.2022.111295)
+- Deng W, Bai Y, Deng F, Pan Y, **Mei S**, Zheng Z, et al. Streptococcal pyrogenic exotoxin B cleaves GSDMA and triggers pyroptosis. **_Nature_**. 2022;602: 496–502. [doi:10.1038/s41586-021-04384-4](https://doi.org/10.1038/s41586-021-04384-4)
+- Batiuk MY, Tyler T, Dragicevic K, **Mei S**, Rydbirk R. Upper cortical layer–driven network impairment in schizophrenia. **_Science Advances_**. 2022. [doi:10.1126/sciadv.abn8367](https://doi.org/10.1126/sciadv.abn8367) 
 
 ### Before 2022
 - Kfoury Y#, Baryawno N#, Severe N#, **Mei S#**, Gustafsson K#, Hirz T, et al. Human prostate cancer bone metastases have an actionable immunosuppressive microenvironment. **Cancer Cell**. 2021;39: 1464-1478.e8. doi:10.1016/j.ccell.2021.09.005
