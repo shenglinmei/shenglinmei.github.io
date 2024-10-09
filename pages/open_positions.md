@@ -31,7 +31,7 @@ Interested applicants should submit the following materials via email to Dr. She
 This position will provide ample opportunities for professional development and the acquisition of cutting-edge skills in basic and translational cancer genomics research, research planning and strategy, and data analysis and interpretation. The successful candidates will collaborate with researchers across multiple institutions.
 
 #### Requirements:
-• Master’s degree in Data Science, Bioinformatics, Computational Biology, Machine Learning, Statistics, Mathematics, Physics, Computer science or other related fields.
+• Master’s degree in Data Science, Bioinformatics, Computational Biology, Biology, Statistics, Mathematics, Physics, Computer science or other related fields.
 
 • One or more years of research training.
 
