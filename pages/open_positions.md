@@ -13,7 +13,7 @@ The Mei Laboratory studies the remodeling and regulatory mechanisms of the tumor
 We are seeking highly motivated postdoctoral fellow to join our team. The successful candidates will collaborate with researchers across multiple institutions. Our lab is primarily affiliated with the Fralin Biomedical Research Institute (FBRI) Cancer Research Center DC of Virginia Tech and jointly we are members of the Children's National Center for Cancer and Immunology Research. The positions offer annual salary of $65,000~$70,000 and are adjustable based on research experience.
 
 #### Requirements:
-•	PhD and/or MD in computational biology, bioinformatics, genomics, or other related fields. 
+•	PhD and/or MD in Data Science, Bioinformatics, Computational Biology, Biology, Statistics, Mathematics, Physics, Computer science or other related fields. 
 
 •	Experience in high-throughput sequencing data analysis, experience in supervised and unsupervised machine learning, or deep learning models.
 
