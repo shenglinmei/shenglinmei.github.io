@@ -2,7 +2,7 @@
 layout: default
 title: Research
 subtitle: Research
-permalink: /research/
+permalink: /research
 ---
 # Research
 
