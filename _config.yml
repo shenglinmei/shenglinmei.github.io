@@ -21,7 +21,7 @@ description: Shenglin Mei Lab at VT
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Research: "Research"
+  Research: "research"
 #  Software: "software"
   News & Events: "news"
 #  People: "people"
