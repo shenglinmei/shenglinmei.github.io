@@ -9,7 +9,7 @@ permalink: /publication
 You can visit [Google Scholar](https://scholar.google.com/citations?user=MntNsM8AAAAJ&hl=en) for more details<br>
 \# Co-First authors * Co-corresponding;
 
-### ###2025
+### 2025
 
 * Mei S, Zhang H, Hirz T, Jeffries NE, Xu Y, Baryawno N, et al. Single-cell and spatial transcriptomics reveal a tumor-associated macrophage subpopulation that mediates prostate cancer progression and metastasis. Mol Cancer Res 2025. [https://doi.org/10.1158/1541-7786.MCR-24-0791](https://doi.org/10.1158/1541-7786.MCR-24-0791).
 * He L, Zhao T, Leong WZ, Sharda A, Mayerhofer C, **Mei S**, Bonilla GM, Menendez-Gonzalez JB, Gustafsson K, Fukushima T, Kristiansen TA, Lee JW, Xu Y, Chen L, Xia J, Orozco LA, Budnik B, Sadreyev R, Dou Z, Sykes DB, Scadden DT. PSTK inhibition activates cGAS-STING, precipitating ferroptotic cell death in leukemic stem cells. **Blood**.  2025. [http://dx.doi.org/10.1182/blood.2024026040](https://dx.doi.org/10.1182/blood.2024026040) PMID: 39912669
